@@ -12,11 +12,11 @@
   </a>
 </div>
 
-# SubChangeTracker
+# 💻 - SubChangeTracker
 This workflow checks for updates to submodules, performs the updates, creates or updates a branch, and pushes the changes back to the repository, running three times a day at 00:00, 12:00, and 18:00 UTC.
 
 
-## How to deploy a submodule:
+## 🔧 - How to deploy a submodule:
 go to your local repository and type:
 ```
 git submodule add https://github.com/Tristan-BS/SCT-TestRepo.git
@@ -28,7 +28,7 @@ git submodule add https://github.com/Tristan-BS/SCT-TestRepo.git submodules
 Now you can finally commit and push your changes.
 
 
-# Deploy this Workflow into YOUR Repository -> Very Detailed
+# ⚙️ - Deploy this Workflow into YOUR Repository -> Very Detailed
 
 ## 1. Add your Personal Token
 - Click on your Profile Picture
