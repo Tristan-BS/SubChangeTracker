@@ -1,0 +1,3 @@
+[submodule "SCT-TestRepo"]
+	path = SCT-TestRepo
+	url = https://github.com/Tristan-BS/SCT-TestRepo.git
