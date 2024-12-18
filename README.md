@@ -28,7 +28,7 @@ git submodule add https://github.com/Tristan-BS/SCT-TestRepo.git submodules
 Now you can finally commit and push your changes.
 
 
-# ⚙️ - Deploy this Workflow into YOUR Repository -> Very Detailed
+# ⚙️ - Deploy this Workflow into YOUR Repository
 
 ## 1. Add your Personal Token
 - Click on your Profile Picture
