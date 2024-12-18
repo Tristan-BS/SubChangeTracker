@@ -13,7 +13,7 @@
 </div>
 
 # SubChangeTracker
-This workflow checks for updates to submodules, performs the updates, creates or updates a branch, and pushes the changes back to the repository, running three times a day at 00:00, 12:00, and 18:00 UTC.
+This workflow checks for updates to submodules, performs the updates, creates or updates a branch, and pushes the changes back to the created branch, running three times a day at 00:00, 12:00, and 18:00 UTC.
 
 
 # How to deploy a submodule:
@@ -30,7 +30,7 @@ Now you can finally commit and push your changes.
 
 # Deploy this Workflow into YOUR Repository
 
-## 1. Add your Personal Token
+## 1. Generate a Personal Token
 - Click on your Profile Picture
 - Go to Settings
 - On the left side click on <> Developer Settings
