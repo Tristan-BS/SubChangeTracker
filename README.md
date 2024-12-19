@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Open%20Contributor-Welcome-brightgreen.svg" alt="Open Contributor: Welcome">
   </a>
   <a href="https://github.com/Tristan-BS/SubChangeTracker" style="display: inline-block; margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Open%20Current-Version-blue.svg" alt="V1.5.3: Welcome">
+    <img src="https://img.shields.io/badge/Current%20Version-blue.svg" alt="V1.5.3: Welcome">
   </a>
 </div>
 
