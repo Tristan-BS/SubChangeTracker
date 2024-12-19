@@ -41,7 +41,6 @@ Now you can finally commit and push your changes.
 - Click on Fine-grained tokens
 - Click on Generate new token
 - Name it as you like or name it `SubChangeTrackerToken`
-
 - Add an Expiration date as you like
 - Add a Description if you like to
 - Set the Repository access to `All Repositories`
