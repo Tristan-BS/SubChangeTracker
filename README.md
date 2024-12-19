@@ -1,6 +1,6 @@
 <div align="center">
   <img src="Images/Logo-Transparent.png" alt="Logo">
-  <h4>Automatically get submodule Changes</h2>
+  <h4>Automatically get submodule Changes</h4>
 </div>
 
 <div align="center">
@@ -9,6 +9,9 @@
   </a>
   <a href="https://opensource.org/licenses/MIT" style="display: inline-block; margin-left: 10px;">
     <img src="https://img.shields.io/badge/license-MIT-red.svg" alt="License">
+  </a>
+  <a href="https://github.com/Tristan-BS/SubChangeTracker" style="display: inline-block; margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Open%20Contributor-Welcome-brightgreen.svg" alt="Open Contributor: Welcome">
   </a>
 </div>
 
