@@ -71,3 +71,7 @@ Now you can finally commit and push your changes.
 - Press `Run workflow` -> make sure `main` branch is selected
 - Refresh your page and the workflow is running
 - And now you will see a Repository appeared and you can `Compare & pull Request` if you like to
+
+# Changelog
+- V1.5.3
+    - Added 06:00 UTC
