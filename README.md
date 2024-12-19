@@ -7,11 +7,12 @@
   <a href="https://github.com/Tristan-BS/SubChangeTracker/actions/workflows/SubChangeTracker.yml" style="display: inline-block;">
     <img src="https://github.com/Tristan-BS/SubChangeTracker/actions/workflows/SubChangeTracker.yml/badge.svg" alt="Check Submodules for Updates">
   </a>
-  <a href="https://opensource.org/licenses/MIT" style="display: inline-block; margin-left: 10px;">
-    <img src="https://img.shields.io/badge/license-MIT-red.svg" alt="License">
-  </a>
   <a href="https://github.com/Tristan-BS/SubChangeTracker" style="display: inline-block; margin-left: 10px;">
     <img src="https://img.shields.io/badge/Open%20Contributor-Welcome-brightgreen.svg" alt="Open Contributor: Welcome">
+  </a>
+  </br>
+  <a href="https://opensource.org/licenses/MIT" style="display: inline-block; margin-left: 10px;">
+    <img src="https://img.shields.io/badge/license-MIT-red.svg" alt="License">
   </a>
   <a href="https://github.com/Tristan-BS/SubChangeTracker/releases/tag/v1.5.3" style="display: inline-block; margin-left: 10px;">
     <img src="https://img.shields.io/badge/Current%20Version-V1.5.3-blue.svg" alt="Current Version: V1.5.3">
