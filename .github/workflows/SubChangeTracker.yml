@@ -2,19 +2,18 @@
 name: Check Submodules for Updates
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-    - cron: '0 6 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 18 * * *'
-    
   workflow_dispatch:
+  # Re-enable automatic runs by uncommenting the lines below.
+  # schedule:
+  #   - cron: '0 0 * * *'
+  #   - cron: '0 6 * * *'
+  #   - cron: '0 12 * * *'
+  #   - cron: '0 18 * * *'
 
 env:
   REPO_NAME: Updated-Submodules
   GITHUB_TOKEN: ${{ secrets.SubChangeTrackerToken }}
   AUTHOR: Tristan-BS
-  
 
 jobs:
   SubChangeTracker:
@@ -58,4 +57,5 @@ jobs:
           else
             echo "No changes in submodules"
           fi
+
 # Author: Tristan-BS
